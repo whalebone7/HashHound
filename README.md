@@ -1,5 +1,7 @@
 # HashHound 
-<img width="729" alt="Screen Shot 2023-04-05 at 22 59 25" src="https://user-images.githubusercontent.com/125891350/230230897-ae99e489-1ab8-48ec-8416-104fed5a151b.png">
+
+<img width="1280" alt="Screen Shot 2023-04-05 at 23 23 01" src="https://user-images.githubusercontent.com/125891350/230233128-9719948a-2b6d-4eea-8af4-290ce8b120c1.png">
+
 
 HashHound is a bash script that can help security researchers find TLS/SSL certificates associated with a given target company and then search Censys for those certificates' SHA256 fingerprints.
 
